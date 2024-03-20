@@ -1,0 +1,24 @@
+{
+  "name": "enimlaboriosam",
+  "version": "1.0.0",
+  "description": "A pure JS implementation of the structured clone algorithm (or at least something pretty close to that)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WymanMills/enimlaboriosam.git"
+  },
+  "keywords": [
+    "structured",
+    "labore",
+    "aliquid"
+  ],
+  "main": "index.js",
+  "author": "SoniaBoyer",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash.isplainobject": "^3.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "mocha": "^2.2.4"
+  }
+}
